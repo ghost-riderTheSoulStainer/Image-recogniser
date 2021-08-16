@@ -1,0 +1,15 @@
+.heading{
+    width:50%;
+    font-size: 23px;
+}
+.name_of_objects{
+    color:blue;
+}
+body{
+    background-color: darkturquoise;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px solid lightgreen;
+}
